@@ -1,0 +1,5 @@
+{
+  "name": "FinAI - Intelligent Personal Finance Advisor",
+  "description": "FinAI is a comprehensive financial management platform powered by Gemini AI. It features real-time expense tracking, dynamic budget monitoring, and a sophisticated AI advisor that provides personalized, data-driven insights to help you achieve your financial goals.",
+  "requestFramePermissions": []
+}
